@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## FelipeRM Studio
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I work on my own software tools for my engineering design projects (mainly related to vehicles) and my creative works (music and storytelling)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[By email](mailto:feliperm.studio@outlook.com)
