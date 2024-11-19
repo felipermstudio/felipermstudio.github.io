@@ -1,3 +1,8 @@
+---
+layout: post
+title: Accesibilidad — Sistemas operativos y adultos mayores
+---
+
 Cuando hablamos de accesibilidad en la tecnología nos referimos a ese conjunto de sistemas que permiten el uso del software y hardware por cualquier usuario sin importar sus capacidades o limitaciones sensoriales, cognitivas y motrices.
 
 ***Tener características o sistemas de accesibilidad en el hardware y software es darle herramientas a todas las personas para que retomen su independencia y dignidad.***
