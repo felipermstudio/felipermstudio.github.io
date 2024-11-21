@@ -1,3 +1,8 @@
+---
+layout: post
+title: ¿Cuándo es útil Jekyll & Github?
+---
+
 1. Cuando estás harto de WordPress, Medium, Substack o cualquier otra plataforma que pide de ti unirte a su modelo de negocios para publicar algo que te late por compartir. 
 2. Cuando tienes un poco de entendimiento sobre la construcción de sitios web en texto plano.
 3. Cuando quieres invertir unas horas de tu día en diseñar un blog (o unos minutos como este blog).
