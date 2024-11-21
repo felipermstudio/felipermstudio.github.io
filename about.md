@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-## FelipeRM Studio
+## Sobre FelipeRM Studio
 
-I work on my own software tools for my engineering design projects (mainly related to vehicles) and my creative works (music and storytelling)
+Aquí publico diseños y actualizaciones en mis proyectos de _ingeniería de diseño_ (personales), a veces también cosas que he aprendido en otros proyectos no personales.
 
-### Contact me
+### Contacto
 
-[By email](mailto:feliperm.studio@outlook.com)
+[email](mailto:feliperm.studio@outlook.com)
+
